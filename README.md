@@ -1,6 +1,8 @@
 gitconfig
 =========
 
+< MAC OS X System Install Guide >
+
 1. Download SourceTree from http://sourcetreeapp.com/download
 
 2. > cd ~ //change to your folder
