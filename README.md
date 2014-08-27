@@ -16,3 +16,8 @@ gitconfig
 
 5. source .bashrc or reopen your terminal
    > source ~/.bashrc
+
+
+========
+
+PS: After you clone a repository, you can use > git visual <repository> to open repository with SourceTree App
